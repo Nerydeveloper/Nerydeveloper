@@ -1,16 +1,16 @@
-## Olá devs, meu nome é Adrian e este é meu Github ❤️
+## Hello devs, my name is Adrian and this is my Github ❤️
 
 ![Adrian Nery's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nerydeveloper&show_icons=true&theme=dark)
 
-## Redes sociais
+## Social media
 
 [![Youtube](	https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nerydeveloper)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nerydeveloper/)
 
-## Linguagens que mais utilizo
+## Languages ​​I use most
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nerydeveloper&layout=donut)](https://github.com/Nerydeveloper/github-readme-stats)
 
-## Tecnologinas em que já tive contato
+## Technologies I have already had contact with
 <div style="display:inline_block">
     <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
