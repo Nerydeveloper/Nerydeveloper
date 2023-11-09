@@ -1,6 +1,5 @@
 ## Hello devs, my name is Adrian and this is my Github ❤️
-
-![Adrian Nery's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nerydeveloper&show_icons=true&theme=dark)
+The passion for creating has always been present in my life, and when I encountered programming, that passion took on a new dimension. Over the years, I discovered in technology not just a tool but a language that allows me to bring countless ideas and innovative solutions to life. Each project I undertake is an opportunity to express my creativity and technical skills
 
 ## Social media
 
@@ -8,8 +7,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nerydeveloper/)
 
 ## Languages ​​I use most
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nerydeveloper&layout=donut)](https://github.com/Nerydeveloper/github-readme-stats)
-
+<div align="center">
+  <a href="https://github.com/Nerydeveloper">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nerydeveloper&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nerydeveloper&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+      
 ## Technologies I have already had contact with
 <div style="display:inline_block">
     <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
