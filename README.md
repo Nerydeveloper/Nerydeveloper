@@ -1,41 +1,79 @@
-## Hello devs, my name is Adrian and this is my Github ❤️
-The passion for creating has always been present in my life, and when I encountered programming, that passion took on a new dimension. Over the years, I discovered in technology not just a tool but a language that allows me to bring countless ideas and innovative solutions to life. Each project I undertake is an opportunity to express my creativity and technical skills
+# 👋 Hello, I'm Adrian Nery  
 
-## Social media
+💻 **Software Developer in progress**  
+🚀 Focused on **Mobile Development (React Native)** and **Backend APIs (Django REST)**  
+📚 Constantly improving my skills in **Data Structures, Algorithms and System Design**  
 
-[![Youtube](	https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nerydeveloper)
+I enjoy building real-world applications and solving problems through code.
+
+---
+
+## 🎯 Current Focus
+- Building fullstack apps using **React Native + Django REST**
+- Improving logic and performance with **C**
+- Preparing for **internship opportunities** in software development
+
+---
+
+## 🚀 Featured Projects
+
+### 📱 Workout App (Mobile + API)
+- React Native + Django REST API  
+- User authentication system  
+- Exercise selection and training tracking  
+🔗 https://github.com/Nerydeveloper/SEU-REPO-AQUI
+
+---
+
+### 🌐 Movies API
+- Django REST Framework  
+- Full CRUD system  
+- Filtering, ranking and data organization  
+🔗 https://github.com/Nerydeveloper/SEU-REPO-AQUI
+
+---
+
+### 🧠 Algorithms in C
+- Data structures and problem solving  
+- Focus on performance and logic development  
+🔗 https://github.com/Nerydeveloper/SEU-REPO-AQUI
+
+---
+
+## 🛠️ Main Stack
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 📚 Other Technologies
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nerydeveloper&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nerydeveloper&theme=tokyonight"/>
+</div>
+
+---
+
+## 🌐 Connect with me
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nerydeveloper)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nerydeveloper/)
 
-## Languages ​​I use most
-<div align="center">
-  <a href="https://github.com/Nerydeveloper">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nerydeveloper&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nerydeveloper&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-      
-## Technologies I have already had contact with
-<div style="display:inline_block">
-    <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-</div>
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Nerydeveloper}/count.svg" /></p> 
-<br></div>
+---
 
+## 👀 Visitors
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nerydeveloper&color=blue&style=for-the-badge"/>
+</p>
