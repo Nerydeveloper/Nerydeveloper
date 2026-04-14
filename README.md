@@ -17,28 +17,6 @@ I enjoy building real-world applications and solving problems through code.
 
 ## 🚀 Featured Projects
 
-### 📱 Workout App (Mobile + API)
-- React Native + Django REST API  
-- User authentication system  
-- Exercise selection and training tracking  
-🔗 https://github.com/Nerydeveloper/SEU-REPO-AQUI
-
----
-
-### 🌐 Movies API
-- Django REST Framework  
-- Full CRUD system  
-- Filtering, ranking and data organization  
-🔗 https://github.com/Nerydeveloper/SEU-REPO-AQUI
-
----
-
-### 🧠 Algorithms in C
-- Data structures and problem solving  
-- Focus on performance and logic development  
-🔗 https://github.com/Nerydeveloper/SEU-REPO-AQUI
-
----
 
 ## 🛠️ Main Stack
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
