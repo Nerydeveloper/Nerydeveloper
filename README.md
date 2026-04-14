@@ -17,6 +17,59 @@ I enjoy building real-world applications and solving problems through code.
 
 ## 🚀 Featured Projects
 
+### 📱 ShapeTeam App
+Mobile application focused on workout management and training organization.
+
+- React Native (TypeScript)
+- User interaction and training flow
+- Integration-ready with backend APIs  
+
+🔗 https://github.com/Nerydeveloper/shapeteam
+
+---
+
+### 🌐 Social Network API
+Backend system simulating a social network with user interactions.
+
+- Django REST Framework
+- Authentication system
+- CRUD operations and relationships  
+
+🔗 https://github.com/Nerydeveloper/REDESOCIAL-DJANGO-
+
+---
+
+### 🎬 FilmIndex API
+Movie management system with filtering and organization features.
+
+- Django REST Framework
+- Data filtering and ranking
+- RESTful API structure  
+
+🔗 https://github.com/Nerydeveloper/FilmIndex
+
+---
+
+### ☕ SaudePlus System
+Health-focused system developed in Java.
+
+- Java (OOP)
+- Business logic and system structure
+- Academic project with real-world concepts  
+
+🔗 https://github.com/Nerydeveloper/SaudePlus
+
+---
+
+### 🧩 Pokédex App
+Frontend application consuming external API data.
+
+- TypeScript
+- API consumption
+- Dynamic interface rendering  
+
+🔗 https://github.com/Nerydeveloper/Pokedex
+
 
 ## 🛠️ Main Stack
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -47,7 +100,7 @@ I enjoy building real-world applications and solving problems through code.
 
 ## 🌐 Connect with me
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nerydeveloper)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nerydeveloper/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nerysolucoestecnologicas/)
 
 ---
 
